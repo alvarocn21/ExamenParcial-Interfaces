@@ -1,0 +1,22 @@
+export type Cocktail = {
+    idDrink: string,
+    strTags: string,
+    strDrink: string,
+    strIntructions: string,
+    srtIngredient1: string,
+    srtIngredient2: string,
+    srtIngredient3: string,
+    srtIngredient4: string,
+    srtIngredient5: string,
+    srtIngredient6: string,
+    srtIngredient7: string,
+    srtIngredient8: string,
+    srtIngredient9: string,
+    srtIngredient10: string,
+    srtIngredient11: string,
+    srtIngredient12: string,
+    srtIngredient13: string,
+    srtIngredient14: string,
+    srtIngredient15: string,
+    strDrinkThumb: string
+}
